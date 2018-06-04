@@ -1,0 +1,8 @@
+{
+  "name": "webpack-mpa-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:qiqi163168/webpack-mpa-react.git",
+  "author": "Micky <“240648145@qq.com”>",
+  "license": "MIT"
+}
